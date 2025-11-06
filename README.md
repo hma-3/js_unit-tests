@@ -1,2 +1,2 @@
-# js_unit-tests
+# Unit tests for JavaScript files
 Covering JavaScript code with unit tests
